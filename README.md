@@ -79,6 +79,7 @@ Manual Entry Fallback: An option to manually enter a medicine's name for older p
 Pharmacy Integration: Features to help users find nearby pharmacies or send refill requests.
 
 •	Here is some picture’s for Mobile app.
+
 <img width="316" height="593" alt="image" src="https://github.com/user-attachments/assets/8291b188-151d-408e-aee3-219c35e2b23f" />
 <img width="313" height="593" alt="image" src="https://github.com/user-attachments/assets/ee99ad8d-3761-4059-9801-57514a7f8a23" />
 <img width="274" height="609" alt="image" src="https://github.com/user-attachments/assets/2a122215-2a32-4580-883b-6c0fad6075db" />
@@ -92,6 +93,7 @@ Pharmacy Integration: Features to help users find nearby pharmacies or send refi
 <img width="424" height="194" alt="image" src="https://github.com/user-attachments/assets/aaccda02-71a3-42b4-9e27-2866c979f0ec" />
 
 •	Here is some picture’s for Web App (Manufacturer Web Portal)
+
 <img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/425ebc0c-78e5-421d-aba7-7d46b6114a4a" />
 <img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/4caca33d-577b-4d71-a5c3-064b3e162943" />
 <img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/e1f06352-f5fb-41b3-8ce0-ef3541460083" />
