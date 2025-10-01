@@ -77,3 +77,39 @@ Drug Interaction & Allergy Alerts: A powerful safety feature. When a user scans 
 Manual Entry Fallback: An option to manually enter a medicine's name for older products that may not have a QR code.
 
 Pharmacy Integration: Features to help users find nearby pharmacies or send refill requests.
+
+•	Here is some picture’s for Mobile app.
+<img width="316" height="593" alt="image" src="https://github.com/user-attachments/assets/8291b188-151d-408e-aee3-219c35e2b23f" />
+<img width="313" height="593" alt="image" src="https://github.com/user-attachments/assets/ee99ad8d-3761-4059-9801-57514a7f8a23" />
+<img width="274" height="609" alt="image" src="https://github.com/user-attachments/assets/2a122215-2a32-4580-883b-6c0fad6075db" />
+<img width="274" height="609" alt="image" src="https://github.com/user-attachments/assets/1c3cb0b0-c015-40e2-94da-385c348eccb6" />
+<img width="287" height="557" alt="image" src="https://github.com/user-attachments/assets/a536e206-54c2-4832-a7a7-03a5589465da" />
+<img width="300" height="557" alt="image" src="https://github.com/user-attachments/assets/0b6f4d2b-61a4-462a-b277-6e50a37ef585" />
+<img width="308" height="634" alt="image" src="https://github.com/user-attachments/assets/7cd3089c-bbc8-429b-b862-91ae9b143338" />
+<img width="286" height="634" alt="image" src="https://github.com/user-attachments/assets/f3b1bd4f-6d93-4b42-be00-46dca0a7506f" />
+<img width="378" height="839" alt="image" src="https://github.com/user-attachments/assets/b92eba53-cf36-4503-940d-cb52fd40d800" />
+<img width="390" height="772" alt="image" src="https://github.com/user-attachments/assets/b5e37b7e-b271-4a43-b51d-a59c7a4b4bf0" />
+<img width="424" height="194" alt="image" src="https://github.com/user-attachments/assets/aaccda02-71a3-42b4-9e27-2866c979f0ec" />
+
+•	Here is some picture’s for Web App (Manufacturer Web Portal)
+<img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/425ebc0c-78e5-421d-aba7-7d46b6114a4a" />
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/4caca33d-577b-4d71-a5c3-064b3e162943" />
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/e1f06352-f5fb-41b3-8ce0-ef3541460083" />
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/84ff722c-28ce-47b0-ad58-9953559b1997" />
+<img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/f960a18a-7a35-4314-b1d3-ba7fed36800d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
