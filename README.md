@@ -1,0 +1,2 @@
+# Medicine-Reminder-App---MedGuard-A-Comprehensive-Pharmaceutical-Safety-Adherence-Platform-
+MedGuard is a complete, full-stack digital ecosystem designed to connect pharmaceutical manufacturers directly with patients, enhancing safety, trust, and medication adherence. The platform consists of two main components: a patient-facing mobile application for reminders and authenticity checks, and a secure web portal for manufacturers to manage 
