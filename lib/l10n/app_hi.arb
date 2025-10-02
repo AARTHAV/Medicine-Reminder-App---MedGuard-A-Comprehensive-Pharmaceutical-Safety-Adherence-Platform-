@@ -1,0 +1,21 @@
+{
+    "@@locale": "hi",
+    "appTitle": "दवा अनुस्मारक",
+    "dashboardTitle": "मेरा डैशबोर्ड",
+    "profileTitle": "मेरी प्रोफाइल",
+    "signInTitle": "साइन इन करें",
+    "sendOTP": "ओटीपी भेजें",
+    "enterMobileNumber": "शुरू करने के लिए अपना मोबाइल नंबर दर्ज करें",
+    "saveChanges": "बदलाव सहेजें",
+    "todaysDoses": "आज की खुराक",
+    "allMyMedicines": "मेरी सभी दवाएं",
+    "fullName": "पूरा नाम",
+    "mobileNumber": "मोबाइल नंबर",
+    "dateOfBirth": "जन्म की तारीख",
+    "knownAllergies": "ज्ञात एलर्जी",
+    "language": "भाषा",
+    "logOut": "लॉग आउट",
+    "doseHistoryTitle": "खुराक का इतिहास",
+    "statusTaken": "लिया हुआ",
+    "statusReminded": "याद दिलाया"
+}

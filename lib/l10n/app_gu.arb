@@ -1,0 +1,21 @@
+{
+    "@@locale": "gu",
+    "appTitle": "દવા રીમાઇન્ડર",
+    "dashboardTitle": "મારું ડેશબોર્ડ",
+    "profileTitle": "મારી પ્રોફાઇલ",
+    "signInTitle": "સાઇન ઇન કરો",
+    "sendOTP": "OTP મોકલો",
+    "enterMobileNumber": "શરૂ કરવા માટે તમારો મોબાઇલ નંબર દાખલ કરો",
+    "saveChanges": "ફેરફારો સંગ્રહિત કરો",
+    "todaysDoses": "આજની ડોઝ",
+    "allMyMedicines": "મારી બધી દવાઓ",
+    "fullName": "પૂરું નામ",
+    "mobileNumber": "મોબાઇલ નંબર",
+    "dateOfBirth": "જન્મ તારીખ",
+    "knownAllergies": "જાણીતી એલર્જી",
+    "language": "ભાષા",
+    "logOut": "લૉગ આઉટ",
+    "doseHistoryTitle": "ડોઝનો ઇતિહાસ",
+    "statusTaken": "લીધેલ",
+    "statusReminded": "યાદ કરાવ્યું"
+}

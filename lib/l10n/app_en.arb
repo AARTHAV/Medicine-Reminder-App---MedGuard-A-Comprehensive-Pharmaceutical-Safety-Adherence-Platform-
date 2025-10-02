@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+    "appTitle": "Medicine Reminder",
+    "dashboardTitle": "My Dashboard",
+    "profileTitle": "My Profile",
+    "signInTitle": "Sign In",
+    "sendOTP": "Send OTP",
+    "enterMobileNumber": "Enter your mobile number to begin",
+    "saveChanges": "Save Changes",
+    "todaysDoses": "Today's Doses",
+    "allMyMedicines": "All My Medicines",
+    "fullName": "Full Name",
+    "mobileNumber": "Mobile Number",
+    "dateOfBirth": "Date of Birth",
+    "knownAllergies": "Known Allergies",
+    "language": "Language",
+    "logOut": "Log Out",
+    "doseHistoryTitle": "Dose History",
+    "statusTaken": "Taken",
+    "statusReminded": "Reminded"
+}
